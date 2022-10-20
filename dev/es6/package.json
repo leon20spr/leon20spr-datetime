@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "scripts": {
+    "es6:start": "node ./src/es6.index.js"
+  }
+}

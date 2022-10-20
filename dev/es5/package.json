@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "es5:start": "node ./src/es5.index.js"
+  }
+}
